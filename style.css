@@ -122,6 +122,11 @@ html,body{
     width: 100%;
 }
 
+.nav-part2 button a{
+    text-decoration: none;
+    color: inherit;
+}
+
 @media (max-width:600px) {
     .nav{
         padding: 0.6vw;
